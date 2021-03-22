@@ -19,3 +19,5 @@ I'm 22 and I'm a M.Sc. Computer Engineering student at University of Pisa.
 
 ## Personal Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerti98&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerti98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
