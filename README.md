@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm 24 and I'm a M.Sc. Computer Engineering student at University of Pisa.  
+I'm 24 and I'm currently working at Meta as a Production Engineer (also know as Site Reliability Engineer / DevOps Engineer in other companies).  
