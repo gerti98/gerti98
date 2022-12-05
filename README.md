@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Olgerti
 
+- 🇦🇱 🇮🇹
 - :pushpin: London, UK
 - 💼 Production Engineer (a.k.a. Site Reliability Engineer) at Meta and Recent grad
 - 🧑‍🎓 M.Sc. and B.Sc. in Computer Engineering at the University of Pisa
