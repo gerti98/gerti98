@@ -7,3 +7,7 @@
 - 📫 How to reach me: gxhanej@gmail.com
 - 🔗 [Linkedin](https://www.linkedin.com/in/olgerti-xhanej-a52760158/), [Instagram](https://www.instagram.com/gertixhanej/)
 - ⚡ Fun fact: Inter Milan 🔵⚫ supporter
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerti98&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
